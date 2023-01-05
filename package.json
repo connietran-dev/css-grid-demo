@@ -1,0 +1,19 @@
+{
+  "name": "css-grid-demo",
+  "version": "1.0.0",
+  "description": "Demo project for practicing CSS Grid",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/connietran-dev/css-grid-demo.git"
+  },
+  "author": "Connie Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/connietran-dev/css-grid-demo/issues"
+  },
+  "homepage": "https://github.com/connietran-dev/css-grid-demo#readme"
+}
